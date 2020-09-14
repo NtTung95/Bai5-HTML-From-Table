@@ -1,0 +1,35 @@
+body{
+    font-family: arial;
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+    color: blue;
+}
+table {
+    width: 90%;
+    height: 660px;
+    margin: auto;
+    font-size: 35px;
+    text-align: center;
+
+
+}
+tr{
+    height: 100px;
+}
+th{
+    height: 80px;
+}
+td{
+    border: 1px solid ;
+}
+.dong1{
+    background: gold;
+}
+.cot1{
+    color: red;
+}
+.cot2{
+    color: blue;
+}

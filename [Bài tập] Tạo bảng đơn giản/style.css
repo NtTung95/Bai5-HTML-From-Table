@@ -1,0 +1,11 @@
+table {
+    margin: auto    ;
+    width: 90%;
+    height: 200px;
+    padding: 10px;
+    border-collapse: collapse;
+    text-align: center;
+}
+th{
+    background: coral;
+}

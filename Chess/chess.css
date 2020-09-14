@@ -1,0 +1,23 @@
+body{
+    background: orange;
+}
+table{
+    margin: auto;
+    width: 900px;
+    height: 900px;
+    border-collapse: collapse;
+}
+tr, td {
+    border: 0px;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+
+}
+
+.mau1 {
+    background-color: white;
+}
+.mau2 {
+    background-color: black;
+}
